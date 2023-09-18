@@ -1,3 +1,2 @@
-# Github Introduction
-# Communication
-committed
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# hey!
